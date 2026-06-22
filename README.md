@@ -44,4 +44,4 @@
 
 ## 📊 &nbsp;GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarSamu&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarSamu&layout=compact&theme=dark&bg_color=0A0A0A" />
