@@ -7,17 +7,17 @@
 ⚙️ Frontend or backend? It doesn't matter (I prefer backend). <br>
 🧠 Always open to new experiences and challenges. <br>
 🤖 Currently learning about AI agents <br>
-💻 If you can imagine it, you can program it... <br>
+💡 If you can imagine it, you can program it... <br>
 
 <br>
 
-## 🛠  Technologies that I work with
+## 💻  Technologies that I work with
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,cs,cpp,php,py,mysql)](https://skillicons.dev)
 
 <br>
 
 ## 🛠  Tolls
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,docker,postman)](https://skillicons.dev)
 
 <br>
 
